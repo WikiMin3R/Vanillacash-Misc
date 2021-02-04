@@ -35,11 +35,11 @@ Questions and Answers
 
          As found in getblocktemplate they are required to include a transaction if the incentive address is not empty.
 
-    "incentive": {
-        "enforced": false,
-        "address": "VrOmvLuHfayJMlCDj3mRWdf7xrFsD53Tfw",
-        "amount": 617283
-    } 
+            "incentive": {
+                "enforced": false,
+                "address": "VrOmvLuHfayJMlCDj3mRWdf7xrFsD53Tfw",
+                "amount": 617283
+            } 
     
     What happens if a mining pool doesn't include the incentive transaction when required?
 
